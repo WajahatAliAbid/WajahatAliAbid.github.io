@@ -87,7 +87,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<ngx-typed-js [strings]=\"[myText]\" [typeSpeed]=\"25\" [startDelay]=\"300\" [backSpeed]=\"20\" class=\"code\">\n    <!-- <span>Logging into <a href=\"/\">{{username}}</a></span> -->\n    <span class=\"typing\"></span>\n</ngx-typed-js>";
+    __webpack_exports__["default"] = "<ngx-typed-js [strings]=\"[myText]\" [typeSpeed]=\"15\" [startDelay]=\"200\" [backSpeed]=\"20\" class=\"code\">\n    <!-- <span>Logging into <a href=\"/\">{{username}}</a></span> -->\n    <span class=\"typing\"></span>\n</ngx-typed-js>";
     /***/
   },
 

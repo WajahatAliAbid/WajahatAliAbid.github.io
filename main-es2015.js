@@ -58,7 +58,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ngx-typed-js [strings]=\"[myText]\" [typeSpeed]=\"25\" [startDelay]=\"300\" [backSpeed]=\"20\" class=\"code\">\n    <!-- <span>Logging into <a href=\"/\">{{username}}</a></span> -->\n    <span class=\"typing\"></span>\n</ngx-typed-js>");
+/* harmony default export */ __webpack_exports__["default"] = ("<ngx-typed-js [strings]=\"[myText]\" [typeSpeed]=\"15\" [startDelay]=\"200\" [backSpeed]=\"20\" class=\"code\">\n    <!-- <span>Logging into <a href=\"/\">{{username}}</a></span> -->\n    <span class=\"typing\"></span>\n</ngx-typed-js>");
 
 /***/ }),
 
@@ -761,3 +761,4 @@ module.exports = __webpack_require__(/*! /home/runner/work/WajahatAliAbid.github
 /***/ })
 
 },[[0,"runtime","vendor"]]]);
+//# sourceMappingURL=main-es2015.js.map
